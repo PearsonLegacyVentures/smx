@@ -1,5 +1,37 @@
-# Tranquilitas St. Martin & Sint Maarten
+# Tranquilitas — St. Martin / Sint Maarten
 
-Enquiry-first destination website covering both the French and Dutch sides of Saint-Martin/Sint Maarten. No local walk-in storefront or guaranteed therapist availability is asserted. The website uses Tranquilitas treatment photography and free-to-use local destination photography.
+Source repo PearsonLegacyVentures/smx. Domain https://stmartin.tranquilitasspa.com/. Shared Cloudflare Pages project 'grenada' serves this and other new markets. A smx commit must be followed by a deployment of the shared Pages project.
 
-Hosting: shared Cloudflare Pages project `grenada`; own source repository `smx`; hostname planned `stmartin.tranquilitasspa.com`.
+French introduction: /fr/. Both sides are covered by enquiry guides, not guaranteed available therapists. No prices or walk-in local studio are claimed until verified. WhatsApp and call +1 (242) 816-8286. Email sender is bookings@bahamasmassages.com; user must add RESEND_API_KEY to shared Cloudflare Pages env.
+
+Destination imagery: Anse Marcel Beach by Lauren Ostrout under free Unsplash License: https://unsplash.com/photos/a-beach-with-boats-in-the-water-A-KY328Rv8g. Treatment images are from the Tranquilitas brand, not from local St Martin appointments.
+
+Routes:
+/
+/services/
+/areas/
+/french-side/
+/dutch-side/
+/swedish-massage/
+/deep-tissue-massage/
+/couples-massage/
+/hotel-massage/
+/villa-massage/
+/group-wellness/
+/areas/marigot/
+/areas/grand-case/
+/areas/orient-bay/
+/areas/terres-basses/
+/areas/simpson-bay/
+/areas/philipsburg/
+/areas/maho-cupecoy/
+/about/
+/contact/
+/faq/
+/request/
+/privacy/
+/journal/
+/journal/french-vs-dutch-side/
+/journal/villa-hotel-checklist/
+/journal/couples-grand-case-simpson-bay/
+/fr/
