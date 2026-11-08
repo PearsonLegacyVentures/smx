@@ -35,3 +35,7 @@ Routes:
 /journal/villa-hotel-checklist/
 /journal/couples-grand-case-simpson-bay/
 /fr/
+
+## Independent Cloudflare Pages deployment
+
+Cloudflare Pages project: `stmartin` (`https://stmartin-5q0.pages.dev/`). The `main` branch automatically deploys to this website's own Pages project. The public domain will be transferred after independent deployment and DNS verification; the original shared Grenada Pages project remains available until migration completes.
