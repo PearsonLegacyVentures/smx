@@ -39,3 +39,6 @@ Routes:
 ## Independent Cloudflare Pages deployment
 
 Cloudflare Pages project: `stmartin` (`https://stmartin-5q0.pages.dev/`). The `main` branch automatically deploys to this website's own Pages project. The public domain will be transferred after independent deployment and DNS verification; the original shared Grenada Pages project remains available until migration completes.
+
+## Published massage pricing (November 9, 2026)
+Prices in USD; booking directly through the corresponding Setmore services (not enquiry-only). Swedish 60/90: $130/$190; Deep Tissue: $140/$200; Beach: $160/$220; Couples: $280/$440 per couple. The market retains property/therapist checks and at least six hours' advance notice. The eight booking deep links were taken from the Tranquilitas Setmore catalogue.
