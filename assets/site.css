@@ -142,3 +142,6 @@ main>.section-alt{background:linear-gradient(133deg,#e3f0ec 0%,#eff1e8 53%,#f8f6
 @media(max-width:1050px){.booking-price-card{grid-template-columns:1fr}.booking-price-card>img{height:175px;min-height:175px}.booking-price-body{padding:22px}}
 @media(max-width:700px){.booking-price-grid{grid-template-columns:1fr}.booking-price-card{grid-template-columns:35% 65%}.booking-price-card>img{height:100%;min-height:240px}.booking-price-option{flex-wrap:wrap}.booking-price-option .btn{min-height:43px}}
 @media(max-width:490px){.booking-price-card{grid-template-columns:1fr}.booking-price-card>img{height:150px;min-height:150px}.booking-price-option{flex-wrap:nowrap}.booking-price-body{padding:19px}.booking-price-option .btn{padding:9px 13px}}
+
+/* Anchored mobile booking link */
+.floating-book{text-decoration:none;text-align:center;line-height:1.35}
