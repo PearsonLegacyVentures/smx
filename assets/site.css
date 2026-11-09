@@ -151,3 +151,8 @@ body:has(.booking-prices) .floating-book{display:none!important}
 .booking-prices .booking-price-option a:focus-visible,.booking-prices .booking-price-option a:hover{outline:2px solid #368b7c;outline-offset:2px}
 .booking-prices .booking-price-option{scroll-margin-top:105px}
 @media(max-width:760px){.booking-prices .booking-price-option .btn{min-width:116px;text-align:center}.booking-prices .booking-price-grid{margin-bottom:18px}}
+
+/* Keep fixed mobile CTA clear of bookable prices and service buttons. */
+body:has(.booking-prices) .floating-book{display:none!important}
+.booking-price-option a:focus-visible,.booking-price-option a:hover{outline:2px solid #368b7c;outline-offset:2px}
+@media(max-width:760px){.booking-prices .booking-price-option .btn{min-width:116px;text-align:center}}
